@@ -1,2 +1,13 @@
+#python
+__pycache__/
+*.pyc
+#virtual envir
 venv/
+#logs & data 
+*.csv
+logs/
+#firebase credentials
 firebase-key.json
+*.json
+#os 
+.DS_Store
